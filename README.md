@@ -180,16 +180,16 @@ public class FlipCrypt {
 
 > The only exception is for built-in commands, instead use `help <built-in-name>`
 
-| Navigation and Files | Process Management | Information Gathering | Editing | Network  | Open Source Tools | Compilers Interpreters |
-| ----------           | ------------------ | --------------------- | ------- | -------  | ----------------- | ---------              |
-| cd                   | ps                 | help                  | ed      | ssh      | git               | javac                  |
-| ls                   | kill               | man                   | nano    | curl     | aws               | node                   |
-| mkdir                | fg                 | apropos               | emacs   | wget     | openstack         | python                 |
-| touch                | env                | echo                  | vi      | ifconfig | docker            | perl                   |
-| rm                   | lsof               | cat                   | vim     | netstat  | docker-compose    | clang                  |
-| mv                   | tee                | less                  | awk     | nmap     | docker-machine    | clang++                |
-| which                | top                | xxd                   | sed     | telnet   | openssl           | cc                     |
-| pwd                  | xargs              | objdump               | pico    | nc       | diff2html-cli     | gcc                    |
-| chmod                | hup                | type                  | screen  | ettercap | tmux              | go                     |
-| sudo                 | cron               | dd                    | hexl    | ngcrack  | npm               | latex                  |
+| Navigation and Files | Process Management | Information Gathering | Editing   | Network  | Open Source Tools | Compilers Interpreters |
+| ----------           | ------------------ | --------------------- | -------   | -------  | ----------------- | ---------              |
+| cd                   | ps                 | help                  | ed        | ssh      | git               | javac                  |
+| ls                   | kill               | man                   | nano      | curl     | aws               | node                   |
+| mkdir                | fg                 | apropos               | **emacs** | wget     | openstack         | python                 |
+| touch                | env                | echo                  | **vi**    | ifconfig | docker            | perl                   |
+| rm                   | lsof               | cat                   | vim       | netstat  | docker-compose    | clang                  |
+| mv                   | tee                | less                  | awk       | nmap     | docker-machine    | clang++                |
+| which                | top                | xxd                   | sed       | telnet   | openssl           | cc                     |
+| pwd                  | xargs              | objdump               | pico      | nc       | diff2html-cli     | gcc                    |
+| chmod                | hup                | type                  | screen    | ettercap | tmux              | go                     |
+| sudo                 | cron               | dd                    | hexl      | ngcrack  | npm               | latex                  |
 
