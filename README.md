@@ -69,8 +69,6 @@ We need a way to communicate together without being detected.
 
 - [Java JDK 8 Download](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-+ 
-
   | Commands                  | Action                                         |
   | ------------------------- | --------                                       |
   | ls                        | List files in directory                        |
