@@ -28,15 +28,15 @@ Why do so many grey beards love unix?
 
   a. Programs can talk to eachother via stdin and stdout
   
-  ![Which](images/process.png =650x450)
+  ![Which](images/process.png)
   
 2. Every input / output has to have a name and human understandable encoding.
 
-  ![Unix Anatomy](images/anatomy.png =650x450)
+  ![Unix Anatomy](images/anatomy.png)
 
 3. Clean API and Documentation. Has uniform language.
 
-  ![Man Page](images/man.png =300x500)
+  ![Man Page](images/man.png)
 
 4. Programs are binary only. One file.
 
@@ -44,9 +44,9 @@ Why do so many grey beards love unix?
 
 5. Simple is valued above easy.
 
-  ![Simple](images/simple.png =300x300)
+  ![Simple](images/simple.png)
 
-  ![Complex](images/complex.png =300x200)
+  ![Complex](images/complex.png)
 
 6. Choose to share or isolate program environment.
 
