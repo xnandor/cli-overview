@@ -90,8 +90,9 @@ cd flip-crypt
 ls                                             #Should be empty.
 touch FlipCrypt.java
 touch plaintext.txt
-emacs FlipCrypt.java                           #Add code from 1c
-emacs FlipCrypt.java                           #Add your own message
+emacs FlipCrypt.java                          #Add code from 1c
+                                              # You could also use 'notepad' on windows instead of emacs.
+emacs plaintext.txt                           #Add your own message
 javac FlipCrypt.java
 cat plaintext.txt | java FlipCrypt password123 | xxd
 ```
