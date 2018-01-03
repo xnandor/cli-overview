@@ -26,10 +26,8 @@ public class FlipCrypt {
         byte[] password = args[0].getBytes(StandardCharsets.US_ASCII);
 
         // XOR
-        int i = 0;
         byte[] result = new byte[message.length];
         for (int messageIndex = 0; messageIndex < message.length; messageIndex++) {
-            i++;
             int passwordIndex = messageIndex % (password.length );
             byte P = message[messageIndex];
             byte K = password[passwordIndex];
