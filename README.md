@@ -190,6 +190,6 @@ public class FlipCrypt {
 | mv                   | tee                | less                  | awk     | nmap     | docker-machine    | clang++                |
 | which                | top                | xxd                   | sed     | telnet   | openssl           | cc                     |
 | pwd                  | xargs              | objdump               | pico    | nc       | diff2html-cli     | gcc                    |
-| whoami               | hup                | type                  | screen  | ettercap | tmux              | go                     |
+| chmod                | hup                | type                  | screen  | ettercap | tmux              | go                     |
 | sudo                 | cron               | dd                    | hexl    | ngcrack  | npm               | latex                  |
 
