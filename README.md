@@ -165,7 +165,10 @@ public class FlipCrypt {
 
   Use the program to send encrypted and compressed messages directly to a friend over TCP/IP on command line.
 
-#### 3.a. Commands you may need.
+#### 3.a. Things you may need.
+
+- [Netcat (Windows Only, comes with Unix)](http://joncraton.org/files/nc111nt.zip)
+
 
   | Commands                   | Action                                         |
   | -------------------------  | --------                                       |
